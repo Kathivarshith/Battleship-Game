@@ -17,7 +17,7 @@ This project was built to practice core Python programming concepts including:
 * Conditional Statements
 * User Input Handling
 * Random Number Generation
-* Basic Game Logic
+* Basic Game Logic.
 
 ---
 
